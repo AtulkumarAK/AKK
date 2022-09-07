@@ -1,0 +1,8 @@
+npm i --location=global expo-cli
+npx create-expo-app <app_name>
+npm install tailwindcss-react-native
+npm install --save-dev tailwindcss
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
